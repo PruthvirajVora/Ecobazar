@@ -1,0 +1,273 @@
+@media only screen and (max-width: 1024px) {
+    .Home-b-sec-1 img {
+        height: 364px;
+    }
+
+.yupos {
+    left: 20px !important;
+}
+.hot-sec1 {
+    height: 539px;
+}
+.summer-sec-1 {
+    width: 42%;
+    right: 0px;
+    bottom: 21px;
+}
+
+.sub-sec-2.d-flex.align-items-center.justify-content-end {
+    flex-wrap: wrap;
+}
+.logos-section.d-flex.align-items-center.justify-content-around {
+    flex-wrap: wrap;
+}
+.navbar {
+    flex-wrap: wrap;
+}
+.yuoo {
+    flex-wrap: wrap;
+}
+
+
+    
+}
+@media only screen and (max-width: 768px) {
+
+.NAVBA-sec-2.d-flex.align-items-center.justify-content-end {
+    justify-content: start !important;
+    margin: 10px 0;
+}
+
+
+.Nav-sec2-3.d-flex.align-items-center.justify-content-end {
+    justify-content: start !important;
+    margin: 20px 0;
+}
+.Nav-sec2-2.d-flex.align-items-center.justify-content-between {
+    margin: 20px 0;
+}
+button.navbar-toggler {
+    color: white !important;
+    background-color: white !important;
+}
+.Popular-main.d-flex.align-items-center.justify-content-center {
+    flex-wrap: wrap;
+}
+.popular-1 {
+    position: relative;
+    width: 100%;
+}
+.sale-sec-1inn {
+    left: 26%;
+}
+.yupos {
+    left: 190px !important;
+}
+
+.sale-sec-1.position-relative {
+    margin: 20px 0;
+}
+.hot-sec1 {
+    height: 100%;
+}
+
+.ru p {
+    font-size: 30px;
+}
+.ru h5 {
+    font-size: 35px;
+}
+.tu i {
+    margin: 10px 0;
+    font-size: 23px;
+    color: gold;
+}
+.ru h6 {
+    font-size: 35px;
+}
+.product1-in img {
+    width: 68px;
+}
+.Product-1 span {
+    font-size: 20px;
+}
+
+.summer-sec img {
+    object-fit: cover;
+    height: 500px;
+}
+.summer-sec-1 {
+    width: 42%;
+    right: -14px;
+    bottom: 211px;
+}
+.Latest-sec-1 {
+    margin: 20px 0;
+}
+.ie {
+    top: 335px;
+}
+.insta-1.position-relative {
+    margin: 10px 0;
+}
+.ft-1 {
+    margin: 20px 0;
+    width: 100%;
+}
+.tur-1 img {
+    height: 100%;
+}
+.hot-1-1 img {
+    width: 16%;
+}
+.team-sec {
+    margin: 20px 0;
+}
+.test-1in.d-flex.align-items-center.justify-content-between {
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+.test-1in-1.d-flex.align-items-center {
+    margin: 20px 0;
+}
+.SingleBlog-6-1 img {
+    object-fit: contain;
+    width: 144px !important;
+}
+.SingleBlog-11.d-flex.align-items-center {
+    flex-wrap: wrap;
+}
+.SingleBlog-2 {
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
+.SingleBlog-2-1.d-flex.align-items-center {
+    flex-wrap: wrap;
+}
+
+
+.SingleBlog-2-2 {
+    margin: 20px 0;
+}
+
+.shop-1 {
+    margin: 20px 0;
+}
+.container {
+    padding: 0;
+}
+.wish-section-1 {
+    overflow: scroll;
+}
+.wish-section-1 td {
+    width: 100%;
+    white-space: nowrap;
+    align-content: center;
+}
+
+
+}
+@media only screen and (max-width: 425px) {
+    .ru p {
+        font-size: 20px;
+    }
+    .ru h5 {
+        font-size: 15px;
+    }
+    .ru h6 {
+        font-size: 15px;
+    }
+    .tu i {
+        font-size: 15px;
+    }
+    .product1-in img {
+        width: 50px;
+    }
+    .sale-sec-1inn {
+        left: 10%;
+    }
+    .yupos {
+        left: 53px !important;
+    }
+    .summer-sec-1 {
+        width: 84%;
+        background-color: #00000078;
+        text-align: center;
+        right: 24px;
+        bottom: 161px;
+    }
+    .ie {
+        top: 137px;
+    }
+    .logos-section img {
+        margin: 20px 0;
+    }
+    .sub-sec2-1 button {
+        width: 100%;
+        border-radius: 0 0px 30px 30px;
+        background-color: #00B207;
+        padding: 20px;
+        border: 0;
+        color: white;
+    }
+    .sub-sec2-1 {
+        margin: 20px 0;
+    }
+
+.ft-2 {
+    margin: 20px 0;
+}
+.AllCat-4.d-flex.align-items-center {
+    flex-wrap: wrap;
+}
+}
+@media only screen and (max-width: 375px) {
+
+    .Sec-1.d-flex.align-items-center.justify-content-center {
+        margin: 10px 0;
+    }
+    .sale-sec-1inn {
+        left: 0%;
+    }
+    .yupos {
+        left: 32px !important;
+    }
+    .djr.d-flex.align-items-center {
+        flex-wrap: wrap;
+    }
+    
+    .ie {
+        top: 107px;
+    }
+
+.test-1in.d-flex.align-items-center.justify-content-between {
+    flex-wrap: wrap;
+}
+.NAVBA-sec-2.d-flex.align-items-center.justify-content-end {
+    flex-wrap: wrap;
+}
+
+.hot-1-1.d-flex.align-items-center.justify-content-around.jskl {
+    flex-wrap: wrap;
+}
+.Allcat-6.d-flex.align-items-center.justify-content-between {
+    flex-wrap: wrap;
+}
+
+img {
+    width: 100%;
+}
+.Nav-sec2-2.d-flex.align-items-center.justify-content-between {
+    flex-wrap: wrap;
+}
+.Nav-sec2-2 a {
+    text-align: center;
+    width: 100%;
+}
+.Nav-sec2-2-in {
+    text-align: center;
+}
+
+
+
+}
